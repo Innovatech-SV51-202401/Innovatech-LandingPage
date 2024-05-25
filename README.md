@@ -8,4 +8,4 @@ Presentation of our GlideGo Startup, lading page developed by the Innovatech tea
 - css
 - javascript
 
-Lading page deployment on the github server.
+Lading page deployment on the GitHub server.
