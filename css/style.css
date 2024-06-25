@@ -13,7 +13,14 @@
     bottom: 30px;
     z-index: 99;
 }
-
+.btn-primary {
+    transition: all 0.3s ease-in-out;
+}
+  
+.btn-primary:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
 .fw-medium {
     font-weight: 600;
 }
